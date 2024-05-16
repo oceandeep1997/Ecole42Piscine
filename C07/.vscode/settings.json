@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"stdlib.h": "c",
+		"sstream": "c",
+		"unistd.h": "c",
+		"__locale": "c",
+		"bitset": "c",
+		"functional": "c",
+		"iterator": "c",
+		"memory": "c",
+		"stdio.h": "c"
+	}
+}
